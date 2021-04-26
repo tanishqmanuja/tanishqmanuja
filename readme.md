@@ -1,4 +1,4 @@
-## Hi I'm Tanishq Manuja <img src="https://github.com/tansihqmanuja/tanishqmanuja/blob/master/assets/hi.gif" width="28px" alt="hi">
+## Hi I'm Tanishq Manuja <img src="https://github.com/tansihqmanuja/tanishqmanuja/blob/main/assets/hi.gif" width="28px" alt="hi">
 
 I am an experimentalist & tech enthusiast. Always looking forward to something new and interesting.
 
