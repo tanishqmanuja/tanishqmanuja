@@ -12,7 +12,7 @@ I am an experimentalist & tech enthusiast. Always looking forward to something n
 </table>
 
 ### GitHub Statistics
-[![Tanishq's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanishqmanuja&count_private=true&show_icons=true)](https://github.com/tanishqmanuja)
+[![Tanishq's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanishqmanuja&count_private=true&show_icons=true&theme=dark)](https://github.com/tanishqmanuja)
 
 ### Having fun with these Technologies & Tools
 [![Ionic Badge](https://img.shields.io/badge/-Ionic-3880FF?style=for-the-badge&labelColor=black&logo=ionic&logoColor=3880FF)](#)
