@@ -19,6 +19,7 @@ I am an experimentalist & tech enthusiast. Always looking forward to something n
 [![Capacitor Badge](https://img.shields.io/badge/-Capacitor-119EFF?style=for-the-badge&labelColor=0d1117&logo=capacitor&logoColor=119EFF)](#) 
 [![Angular Badge](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&labelColor=0d1117&logo=angular&logoColor=DD0031)](#)
 [![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&labelColor=0d1117&logo=firebase&logoColor=FFCA28)](#)
+[![Express Badge](https://img.shields.io/badge/-Expressjs-000000?style=for-the-badge&labelColor=0d1117&logo=express&logoColor=FFFFFF)](#)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=0d1117&logo=node.js&logoColor=3C873A)](#)
 [![NPM](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&labelColor=0d1117&logo=npm&logoColor=CB3837)](#)
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=0d1117&logo=HTML5&logoColor=E34F26)](#)
