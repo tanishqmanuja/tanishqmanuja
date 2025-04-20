@@ -1,8 +1,9 @@
+# 👨🏻‍🚀 Tanishq Manuja
 
+**`Software Developer / Experimentalist / Tech Enthusiast`**
 
-
-# Hey There! <img src="https://github.com/tanishqmanuja/tanishqmanuja/blob/main/assets/hi.gif" width="28px" alt="hi">
-**I'm Tanishq Manuja** - a software developer, experimentalist & tech enthusiast. Always looking forward to something new and interesting.
+<!-- <img src="https://github.com/tanishqmanuja/tanishqmanuja/blob/main/assets/hi.gif" width="16px" alt="hi"> -->
+I'm an indie full-stack developer and electronics engineer, my journey from hardware to software has equipped me with a well-rounded perspective on building robust and innovative solutions by blending these in all fun ways possible.
 
 Check out my [portfolio](https://tqman.pages.dev).
 
