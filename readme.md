@@ -2,8 +2,7 @@
 
 **`Software Developer / Experimentalist / Tech Enthusiast`**
 
-<!-- <img src="https://github.com/tanishqmanuja/tanishqmanuja/blob/main/assets/hi.gif" width="16px" alt="hi"> -->
-I'm an indie full-stack developer and electronics engineer, my journey from hardware to software has equipped me with a well-rounded perspective on building robust and innovative solutions by blending these in all fun ways possible.
+I'm an indie full-stack developer and electronics engineer. My journey from hardware to software has equipped me with a well-rounded perspective on building robust and innovative solutions by blending the two in fun  and creative ways.
 
 Check out my [portfolio](https://tqman.pages.dev).
 
