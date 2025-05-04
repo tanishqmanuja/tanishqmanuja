@@ -2,9 +2,14 @@
 
 **`Software Developer / Experimentalist / Tech Enthusiast`**
 
-I'm an indie full-stack developer and electronics engineer. My journey from hardware to software has equipped me with a well-rounded perspective on building robust and innovative solutions by blending the two in fun  and creative ways.
+I’m Tanishq Manuja — a developer and engineer with an M.Tech in Electronics and Communication. Over the last few years, I’ve focused on building practical, open-source solutions across domains — from web apps and developer tools to embedded systems and automation workflows. I enjoy working across layers of the stack, learning by building, and contributing to projects that are clean, purposeful, and well-designed.
 
-Check out my [portfolio](https://tqman.pages.dev).
+🧠 Self-taught in modern software design  
+🔌 Embedded systems, IoT, Home Automation  
+🌐 Astro, Angular, React, Elysia, Node.js, Bun  
+🛠️ Obsessed with clean APIs, automation & tooling  
+
+Checkout my [portfolio](https://tqman.pages.dev) for curated highlights.
 
 ![Skills](https://skills-icons.vercel.app/api/icons?i=js,ts,html,css,sass,angular,ionic,capacitorjs,react,nextjs,astro,vite,tailwind,express,elysia,mongodb,mysql,prisma,nodejs,bun,py,go,arduino,bash,git,github,docker,vscode,neovim,figma,linux,windows)
 
